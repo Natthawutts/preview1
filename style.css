@@ -1,7 +1,5 @@
 body {
     font-family: 'Sarabun', sans-serif;
-    min-height: 100vh;
-    position: relative;
 }
 .hero {
     background: url('https://source.unsplash.com/1600x600/?university,education') center/cover;
@@ -13,7 +11,4 @@ body {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 }
 
-.content {
-    flex: 1; /* ดัน footer ไปอยู่ข้างล่าง */
-    padding-bottom: 70px;
-}
+
